@@ -1,0 +1,39 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "stockpot:cookingpot",
+    "uvlock": true
+  },
+  "variants": {
+    "wood": {
+      "true": {
+        "submodel": "stockpot:cookingpotwood"
+      },
+      "false": {
+
+      }
+    },
+    "lid": {
+      "true": {
+        "submodel": "stockpot:cookingpotlid"
+      },
+      "false": {
+
+      }
+    },
+    "level": {
+      "0": {
+
+      },
+      "1": {
+
+      },
+      "2": {
+
+      },
+      "3": {
+
+      }
+    }
+  }
+}
